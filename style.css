@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(0, 103, 86);
+    font-family: sans-serif;
+    margin: 0px;
+    color: antiquewhite;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: antiquewhite;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.logo{
+    display: flex;
+    width: 180px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+
+.ifr{
+    display: flex;
+    justify-content: end;
+    width: 700px;
+    height: 750px;
+}
+
+.cont2{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.cont3{
+    width: 500px;
+}
